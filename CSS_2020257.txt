@@ -1,0 +1,21 @@
+BGCC029 started at 2020-09-09 06.01.21.215000
+
+Process instance: 4677331
+User: SECSCHED
+Run control ID: Daily_Terminations
+
+LAST NAME                       FIRST NAME                      M  EMPLID       USERNAME    ROLES                         
+------------------------------  ------------------------------  -  -----------  ----------  ------------------------------
+England                         Brianna                         L  0020375490   ENGLANB     BG_CS_EAB_FDESK               
+Jenkins                         Syenne                          N  0020252897   SJENKIN     BG_3C_SERV_INDC_VIEW          
+                                                                                            BG_3C_USER                    
+                                                                                            BG_CC_STDNT_VIEW_BIO          
+                                                                                            BG_CC_STDNT_VIEW_DEMO         
+                                                                                            BG_CS_SIGNON                  
+                                                                                            BG_FA_CAMPUS                  
+King                            Seth                            C  0020331125   SCKING      BG_CS_EAB_FDESK               
+
+Accounts found:   3
+Accounts updated: 3
+
+BGCC029 ended at 2020-09-09 06.04.00.614000
