@@ -31,7 +31,7 @@ with open('search.txt', 'w') as file_handler:
     for x in searchList:
         file_handler.write("%s\n" % x)
 
-# adding serachList to oldList
+# adding searchList to oldList
 for x in searchList:
     oldList.append(x)
 
